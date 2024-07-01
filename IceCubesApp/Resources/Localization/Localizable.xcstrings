@@ -209,6 +209,12 @@
             "value" : "#%@"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "#%@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -309,6 +315,12 @@
     },
     "%@" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -353,6 +365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ is already selected"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
           }
         },
         "de" : {
@@ -738,6 +756,12 @@
           }
         },
         "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@© 2024 Thomas Ricouard"
+          }
+        },
+        "cy-GB" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@© 2024 Thomas Ricouard"
@@ -1799,6 +1823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Language"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iaith"
           }
         },
         "de" : {
@@ -3109,6 +3139,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Image"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llun"
           }
         },
         "de" : {
@@ -20308,6 +20344,12 @@
             "value" : "D'acord"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31530,6 +31572,12 @@
             "value" : "Correu electrònic"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ebost"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31646,6 +31694,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nom"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enw"
           }
         },
         "de" : {
