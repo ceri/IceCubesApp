@@ -1599,6 +1599,12 @@
             "value" : "Custom emojis"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji addasu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1716,6 +1722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Drafts"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drafftiau"
           }
         },
         "de" : {
@@ -16295,6 +16307,12 @@
             "value" : "S'ha unit"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ymuno ar"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18701,6 +18719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancel·la"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canslo"
           }
         },
         "de" : {
@@ -22152,6 +22176,12 @@
             "value" : "Missatges directes"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Negesau Uniongyrchol"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25488,6 +25518,12 @@
             "value" : "Oculta-ho tot"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuddio Popeth"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25843,6 +25879,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tots"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Popeth"
           }
         },
         "de" : {
@@ -27194,6 +27236,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "All"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Popeth"
           }
         },
         "de" : {
@@ -29686,6 +29734,12 @@
             "value" : "Notificacions"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hysbysiadau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29928,6 +29982,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Línies de temps públiques"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llinellau amser cyhoeddus"
           }
         },
         "de" : {
@@ -36087,6 +36147,12 @@
     },
     "Notifications" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hysbysiadau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37432,6 +37498,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hi ha notificacions"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dim hysbysiadau"
           }
         },
         "de" : {
@@ -39114,6 +39186,12 @@
             "value" : "ha impulsat"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "wedi'i gwthio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40275,6 +40353,12 @@
             "value" : "Mencions"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mensh"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40874,6 +40958,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Totes les notificacions"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pob hysbysiadau"
           }
         },
         "de" : {
@@ -41979,6 +42069,12 @@
     },
     "Public" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cyhoeddus"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -67815,6 +67911,12 @@
             "value" : "Esborranys"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drafftiau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -67932,6 +68034,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Custom Emojis"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji Addasu"
           }
         },
         "de" : {
@@ -76467,6 +76575,12 @@
             "value" : "Privat"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uniongyrchol"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -76705,6 +76819,12 @@
             "value" : "Tothom"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cyhoeddus"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -76822,6 +76942,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No llistat"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anrhestredig "
           }
         },
         "de" : {
