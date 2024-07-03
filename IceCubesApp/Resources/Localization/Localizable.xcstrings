@@ -6069,6 +6069,12 @@
             "value" : "Tags"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tagiau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6186,6 +6192,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lists"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rhestrau"
           }
         },
         "de" : {
@@ -15236,6 +15248,12 @@
             "value" : "Accepta"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Derbyniwch"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15353,6 +15371,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rebutja"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gwrthodwch"
           }
         },
         "de" : {
@@ -15710,6 +15734,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Segueix"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dilynwch"
           }
         },
         "de" : {
@@ -19672,6 +19702,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Etiqueta"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag"
           }
         },
         "de" : {
@@ -27119,6 +27155,12 @@
             "value" : "Explora"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fforio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27363,6 +27405,12 @@
             "value" : "Hashtags"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hashnodau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27480,6 +27528,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "People"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pobl"
           }
         },
         "de" : {
@@ -27843,6 +27897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hi ha resultats de cerca"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dim canlyniadau chwilio"
           }
         },
         "de" : {
@@ -28446,6 +28506,12 @@
             "value" : "Usuaris suggerits"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Defnyddwyr Awgrymiadau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28563,6 +28629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Etiquetes"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tagiau"
           }
         },
         "de" : {
@@ -28932,6 +29004,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Etiquetes populars"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tagiau sy'n Trendio"
           }
         },
         "de" : {
@@ -29613,6 +29691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inici i llistes"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hafan a rhestrau"
           }
         },
         "de" : {
@@ -33713,6 +33797,12 @@
             "value" : "Title"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teitl"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34182,6 +34272,12 @@
     },
     "Lists" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rhestrau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35175,6 +35271,12 @@
     },
     "Local Timeline" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llinell Amser Lleol"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40113,6 +40215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seguiments"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dilynwch"
           }
         },
         "de" : {
@@ -47142,6 +47250,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipografia de la línia de temps"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ffont Llinell Amser"
           }
         },
         "de" : {
@@ -77109,6 +77223,12 @@
             "value" : "Exploreu"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fforio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80434,6 +80554,12 @@
             "value" : "Llistes"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rhestrau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80550,6 +80676,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Línies de temps locals"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llinellau Amser Lleol"
           }
         },
         "de" : {
