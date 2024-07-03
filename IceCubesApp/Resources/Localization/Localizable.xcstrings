@@ -13182,7 +13182,7 @@
         "cy-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prefab"
+            "value" : "Preifat"
           }
         },
         "de" : {
@@ -26637,6 +26637,12 @@
             "value" : "Icon only"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eicon yn unig"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26754,6 +26760,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Icon with text"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eicon gyda testun"
           }
         },
         "de" : {
@@ -35369,6 +35381,12 @@
             "value" : "Codi font"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ffont"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42051,6 +42069,12 @@
     },
     "Private" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preifat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42091,6 +42115,12 @@
     },
     "Private Messages" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Negesau preifat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43694,6 +43724,12 @@
             "value" : "Icona de l'aplicació"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eicon Ap"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43811,6 +43847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Icons by"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eiconau gan"
           }
         },
         "de" : {
@@ -43931,6 +43973,12 @@
             "value" : "Icones"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eiconau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44048,6 +44096,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Official icons"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eiconau swyddogol"
           }
         },
         "de" : {
@@ -59215,6 +59269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Icon style"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arddull Eicon"
           }
         },
         "de" : {
