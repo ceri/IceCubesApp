@@ -3157,7 +3157,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "包含动画的 GIF"
+            "value" : "动画 GIF"
           }
         },
         "zh-Hant" : {
@@ -8696,7 +8696,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "滚动时间线。"
+            "value" : "滑动时间线。"
           }
         },
         "zh-Hant" : {
@@ -9095,7 +9095,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Account"
+            "value" : "账户"
           }
         }
       }
@@ -13655,10 +13655,22 @@
             "value" : "Delete avatar"
           }
         },
+        "eu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ezabatu abatarra"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Supprimer l'avatar"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除头像"
           }
         }
       }
@@ -13890,7 +13902,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "保存个人资料时出错, 请重试。"
+            "value" : "保存个人资料时出错，请重试。"
           }
         },
         "zh-Hant" : {
@@ -14128,7 +14140,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "编辑横幅图片"
+            "value" : "编辑横幅"
           }
         },
         "zh-Hant" : {
@@ -14148,10 +14160,22 @@
             "value" : "Delete header"
           }
         },
+        "eu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ezabatu goiburua"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Supprimer la bannière"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "删除横幅"
           }
         }
       }
@@ -16901,13 +16925,13 @@
                   "one" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%2$@粉丝"
+                      "value" : "%2$@ 粉丝"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%2$@粉丝"
+                      "value" : "%2$@ 粉丝"
                     }
                   }
                 }
@@ -19561,7 +19585,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "标签组图标（SFSymbol）"
+            "value" : "标签组图标（SFSymbol 名）"
           }
         },
         "zh-Hant" : {
@@ -20960,7 +20984,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "AppAccount"
+            "value" : "App 账户"
           }
         }
       }
@@ -28866,8 +28890,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "当下流行的网页"
+            "state" : "translated",
+            "value" : "新闻"
           }
         },
         "zh-Hant" : {
@@ -33551,7 +33575,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Key"
+            "value" : "密钥"
           }
         }
       }
@@ -46215,7 +46239,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Require Alt Text to Post"
+            "value" : "有 ALT 才能发布"
           }
         },
         "zh-Hant" : {
@@ -83128,7 +83152,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "TimelineFilter"
+            "value" : "时间线过滤器"
           }
         }
       }
