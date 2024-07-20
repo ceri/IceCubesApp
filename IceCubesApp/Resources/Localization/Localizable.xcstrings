@@ -345,6 +345,12 @@
             "value" : "%@"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -719,6 +725,17 @@
         }
       }
     },
+    "%@ ist keine valide Instanz" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ не є дійсним екземпляром"
+          }
+        }
+      }
+    },
     "%@ was posted on Mastodon" : {
       "localizations" : {
         "de" : {
@@ -743,6 +760,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ a été publié sur Mastodon"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is geplaatst op Mastodon"
           }
         },
         "tr" : {
@@ -8931,8 +8954,8 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "%lld nieuwe posts"
+                  "state" : "translated",
+                  "value" : "%lld nieuwe post"
                 }
               },
               "other" : {
@@ -9084,6 +9107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Compte"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account"
           }
         },
         "tr" : {
@@ -11809,8 +11838,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Blocked accounts"
+            "state" : "translated",
+            "value" : "Geblokkeerde accounts"
           }
         },
         "pl" : {
@@ -12319,8 +12348,8 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "%lld posts"
+                  "state" : "translated",
+                  "value" : "%lld post"
                 }
               },
               "other" : {
@@ -12672,8 +12701,8 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "%lld velden"
+                  "state" : "translated",
+                  "value" : "%lld veld"
                 }
               },
               "other" : {
@@ -13605,7 +13634,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wijzig avatar"
+            "value" : "Wijzig profielfoto"
           }
         },
         "pl" : {
@@ -13665,6 +13694,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Supprimer l'avatar"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwijder profielfoto"
           }
         },
         "zh-Hans" : {
@@ -14170,6 +14205,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Supprimer la bannière"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwijder omslagfoto"
           }
         },
         "zh-Hans" : {
@@ -17640,8 +17681,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Moved To %@"
+            "state" : "translated",
+            "value" : "Verhuisd naar %@"
           }
         },
         "pl" : {
@@ -17759,8 +17800,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Muted accounts"
+            "state" : "translated",
+            "value" : "Gedempte accounts"
           }
         },
         "pl" : {
@@ -20815,6 +20856,12 @@
             "value" : "Une erreur s'est produite lors de la publication sur Mastodon, veuillez réessayer."
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er is een fout opgetreden tijdens het plaatsen van het bericht op Mastodon, probeer het nogmaals."
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20975,6 +21022,12 @@
             "value" : "Compte de l'app"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AppAccount"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21013,6 +21066,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Marque-pages"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bladwijzers"
           }
         },
         "tr" : {
@@ -22720,6 +22779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "DeepL n'est pas joignable ! Est-ce que la clé d'API est correcte ?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DeepL kan niet worden bereikt. Klopt de API-sleutel? "
           }
         },
         "tr" : {
@@ -27161,6 +27226,12 @@
             "value" : "Explore & tendances"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ondekken en nieuws"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28860,8 +28931,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Trending links"
+            "state" : "translated",
+            "value" : "Nieuws"
           }
         },
         "pl" : {
@@ -29303,6 +29374,12 @@
             "value" : "Favoris"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favorieten"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29341,6 +29418,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chronologie fédérée"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gefedereerde tijdlijn"
           }
         },
         "tr" : {
@@ -31669,6 +31752,12 @@
             "value" : "Tags suivis"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gevolgde tags"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31709,6 +31798,12 @@
             "value" : "Abonnés uniquement"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alleen volgers"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31747,6 +31842,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chronologie personnelle"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
           }
         },
         "tr" : {
@@ -31793,6 +31894,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Image"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afbeelding"
           }
         },
         "tr" : {
@@ -31877,6 +31984,12 @@
           }
         },
         "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instance"
+          }
+        },
+        "nl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instance"
@@ -33566,6 +33679,12 @@
             "value" : "Clé"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sleutel"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34336,6 +34455,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Listes"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lijsten"
           }
         },
         "tr" : {
@@ -35337,6 +35462,12 @@
             "value" : "Chronologie locale"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lokale tijdlijn"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35375,6 +35506,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mentions"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vermeldingen"
           }
         },
         "tr" : {
@@ -36201,8 +36338,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Instellingen ..."
+            "state" : "translated",
+            "value" : "Instellingen…"
           }
         },
         "pl" : {
@@ -36275,6 +36412,12 @@
             "value" : "Nouvelle publication"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nieuw bericht"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36319,6 +36462,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notifications"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meldingen"
           }
         },
         "tr" : {
@@ -36753,8 +36902,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "New accounts"
+            "state" : "translated",
+            "value" : "Nieuwe accounts"
           }
         },
         "pl" : {
@@ -36872,8 +37021,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "People not following you"
+            "state" : "translated",
+            "value" : "Mensen die jou niet volgen"
           }
         },
         "pl" : {
@@ -36991,8 +37140,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "People you don't follow"
+            "state" : "translated",
+            "value" : "Mensen die jij niet volgt"
           }
         },
         "pl" : {
@@ -37229,8 +37378,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Filtered notifications"
+            "state" : "translated",
+            "value" : "Gefilterde meldingen"
           }
         },
         "pl" : {
@@ -37348,8 +37497,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Notifications Filter"
+            "state" : "translated",
+            "value" : "Filter voor meldingen"
           }
         },
         "pl" : {
@@ -37467,8 +37616,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Filter out notifications from…"
+            "state" : "translated",
+            "value" : "Houd meldingen tegen van…"
           }
         },
         "pl" : {
@@ -41496,6 +41645,12 @@
             "value" : "Ouvrir Ice Cubes"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Ice Cubes"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41536,6 +41691,12 @@
             "value" : "Ouvrir dans un onglet"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open op een tab"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41574,6 +41735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ouvrir l'app sur un onglet spécifique"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open de app op een specifieke tab"
           }
         },
         "tr" : {
@@ -41847,6 +42014,12 @@
             "value" : "Publier un statut"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plaats een bericht"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41885,6 +42058,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Publier un statut avec une image"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plaats een bericht met een afbeelding"
           }
         },
         "tr" : {
@@ -41927,6 +42106,12 @@
             "value" : "Publier une image vers Mastodon"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plaats een afbeelding op Mastodon"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41967,6 +42152,12 @@
             "value" : "Publier contenu"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plaats materiaal"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42002,6 +42193,12 @@
             "value" : "Publier des images"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plaats een afbeelding"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42035,6 +42232,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Publier un status sur Mastodon"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plaats een statusbericht op Mastodon"
           }
         },
         "tr" : {
@@ -42075,6 +42278,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visibilité de la publication"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zichtbaarheid"
           }
         },
         "tr" : {
@@ -42123,6 +42332,12 @@
             "value" : "Privée"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privé"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42167,6 +42382,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Messages privées"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privéberichten"
           }
         },
         "tr" : {
@@ -42215,6 +42436,12 @@
             "value" : "Profil"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profiel"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42261,6 +42488,12 @@
             "value" : "Public"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Openbaar"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42299,6 +42532,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Public calme"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minder openbaar"
           }
         },
         "tr" : {
@@ -42815,6 +43054,12 @@
             "value" : "Onglet sélectionné"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geselecteerde tab"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42853,6 +43098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Envoyer une publication"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verstuur bericht"
           }
         },
         "tr" : {
@@ -42979,6 +43230,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Paramètres"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instellingen"
           }
         },
         "tr" : {
@@ -57700,7 +57957,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ondertitel laden ..."
+            "value" : "Ondertitel laden…"
           }
         },
         "pl" : {
@@ -62685,7 +62942,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Deze functionaliteit vereist een DeepL API-sleutel"
           }
         },
@@ -62844,6 +63101,9 @@
           }
         }
       }
+    },
+    "Show Content Gradient" : {
+
     },
     "status.action.bookmark" : {
       "extractionState" : "manual",
@@ -72717,8 +72977,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Hide Results"
+            "state" : "translated",
+            "value" : "Verberg resultaten"
           }
         },
         "pl" : {
@@ -72983,8 +73243,8 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "%lld stemmen"
+                  "state" : "translated",
+                  "value" : "%lld stem"
                 }
               },
               "other" : {
@@ -74348,8 +74608,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Show Results"
+            "state" : "translated",
+            "value" : "Toon resultaten"
           }
         },
         "pl" : {
@@ -75929,8 +76189,8 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "%lld boosts"
+                  "state" : "translated",
+                  "value" : "%lld boost"
                 }
               },
               "other" : {
@@ -76282,8 +76542,8 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "%lld favorieten"
+                  "state" : "translated",
+                  "value" : "%lld favoriet"
                 }
               },
               "other" : {
@@ -76635,8 +76895,8 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "%lld antwoorden"
+                  "state" : "translated",
+                  "value" : "%lld antwoord"
                 }
               },
               "other" : {
@@ -77276,6 +77536,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Onglet"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tab"
           }
         },
         "tr" : {
@@ -78237,8 +78503,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Profile (%@)"
+            "state" : "translated",
+            "value" : "Profiel (%@)"
           }
         },
         "pl" : {
@@ -78994,8 +79260,8 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "%lld vermeldingen"
+                  "state" : "translated",
+                  "value" : "%lld vermelding"
                 }
               },
               "other" : {
@@ -79150,6 +79416,12 @@
             "value" : "La clé API DeepL est déjà stockée !"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De DeepL API-sleutel is nog steeds opgeslagen!"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -79189,6 +79461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Le Service de Traduction de votre instance n'est pas joignable !"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De Vertaalservice van deze server is onbereikbaar!"
           }
         },
         "tr" : {
@@ -79662,6 +79940,125 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ 有效"
+          }
+        }
+      }
+    },
+    "timeline.%@-not-valid" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ не з'яўляецца сапраўдным прыкладам"
+          }
+        },
+        "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no és una instància vàlida"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ist keine gültige Instanz"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is not a valid instance"
+          }
+        },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is not a valid instance"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ no es una instancia válida"
+          }
+        },
+        "eu" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ez da baliozko instantzia"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ n'est pas une instance valide"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ non è un'istanza valida"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 有効なインスタンスではありません"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 유효한 인스턴스가 아닙니다"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ er ikke en gyldig instans"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is geen geldige instantie"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ nie jest poprawnym serwerem"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ não é uma instância válida"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ geçerli bir örnek değil"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ немає коректний сервера"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 不是一个有效的实例"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 不是一個有效的實例"
           }
         }
       }
@@ -81787,8 +82184,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Spring naar meest recent"
+            "state" : "translated",
+            "value" : "Ververs"
           }
         },
         "pl" : {
@@ -82533,8 +82930,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "%#@arg1@ recente posts van %#@arg2@ deelnemers"
+            "state" : "translated",
+            "value" : "%#@arg1@ van %#@arg2@"
           },
           "substitutions" : {
             "arg1" : {
@@ -82544,14 +82941,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%arg"
+                      "state" : "translated",
+                      "value" : "%arg recent bericht"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%arg"
+                      "state" : "translated",
+                      "value" : "%arg recente berichten"
                     }
                   }
                 }
@@ -82564,14 +82961,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%arg"
+                      "state" : "translated",
+                      "value" : "%arg deelnemer"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
-                      "value" : "%arg"
+                      "state" : "translated",
+                      "value" : "%arg deelnemers"
                     }
                   }
                 }
@@ -83184,6 +83581,12 @@
             "value" : "Service de traduction"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vertaalservice"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -83228,6 +83631,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Liens tendances"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trending Links"
           }
         },
         "tr" : {
@@ -83508,14 +83917,14 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "%lld people talking"
+                  "state" : "translated",
+                  "value" : "%lld bericht"
                 }
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "needs_review",
-                  "value" : "%lld people talking"
+                  "state" : "translated",
+                  "value" : "%lld berichten"
                 }
               }
             }
@@ -83744,6 +84153,12 @@
             "value" : "Utilisez Ice Cubes pour publier un statut sur Mastodon"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gebruik Ice Cubes om een bericht op Mastodon te plaatsen"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -83777,6 +84192,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Utiliser Ice Cubes pour publier un statut avec une image sur Mastodon"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gebruik Ice Cubes om een bericht met een afbeelding op Mastodon te plaatsen"
           }
         },
         "tr" : {
@@ -83819,6 +84240,12 @@
             "value" : "Visibilité"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zichtbaarheid"
+          }
+        },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -83857,6 +84284,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visibilité de votre publication"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zichtbaarheid van je bericht"
           }
         },
         "tr" : {
