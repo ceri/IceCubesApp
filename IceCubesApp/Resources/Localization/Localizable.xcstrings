@@ -209,6 +209,12 @@
             "value" : "#%@"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "#%@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -309,6 +315,12 @@
     },
     "%@" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -371,6 +383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ is already selected"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
           }
         },
         "de" : {
@@ -797,6 +815,12 @@
           }
         },
         "ca" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@© 2024 Thomas Ricouard"
+          }
+        },
+        "cy-GB" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@© 2024 Thomas Ricouard"
@@ -1622,6 +1646,12 @@
             "value" : "Custom emojis"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji addasu"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1741,6 +1771,12 @@
             "value" : "Drafts"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drafftiau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1858,6 +1894,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Language"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iaith"
           }
         },
         "de" : {
@@ -2455,6 +2497,12 @@
             "value" : "Off"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diffodd"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2573,6 +2621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "On"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Galluog"
           }
         },
         "de" : {
@@ -2932,6 +2986,12 @@
             "value" : "Audio"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Awdio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3170,6 +3230,12 @@
             "value" : "Image"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llun"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3289,6 +3355,12 @@
             "value" : "Video"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fideo"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3406,6 +3478,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ boosted %@"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ wedi gwthio %@"
           }
         },
         "de" : {
@@ -3644,6 +3722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "App"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ap"
           }
         },
         "de" : {
@@ -5431,6 +5515,12 @@
             "value" : "Settings"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Osodiadau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6026,6 +6116,12 @@
             "value" : "Tags"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tagiau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6143,6 +6239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lists"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rhestrau"
           }
         },
         "de" : {
@@ -6500,6 +6602,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Posts"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postiau"
           }
         },
         "de" : {
@@ -6976,6 +7084,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Supporter"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cefnogwr"
           }
         },
         "de" : {
@@ -8167,6 +8281,12 @@
             "value" : "New"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Newydd"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8403,6 +8523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Compose"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cyfansoddi"
           }
         },
         "de" : {
@@ -10459,6 +10585,7 @@
       }
     },
     "account.action.notify-enable" : {
+      "comment" : "Galluogi ...",
       "extractionState" : "manual",
       "localizations" : {
         "be" : {
@@ -11306,6 +11433,12 @@
             "value" : "Aquesta instància no està suportada actualment."
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nid yw'r enghraifft hon yn cael ei gefnogi ar hyn o bryd."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11424,6 +11557,12 @@
             "value" : "Afegeix un compte"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ychwanegu Cyfrif"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11540,6 +11679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inicia sessió"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mewngofnodwch"
           }
         },
         "de" : {
@@ -11778,6 +11923,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impulsat per"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wedi'i gwthio gan"
           }
         },
         "de" : {
@@ -12724,6 +12875,12 @@
             "value" : "Quant a"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ynglyn â"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13079,6 +13236,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Privat"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preifat"
           }
         },
         "de" : {
@@ -14853,6 +15016,12 @@
             "value" : "Configuració de les publicacions"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Osodiadau bost"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15210,6 +15379,12 @@
             "value" : "Accepta"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Derbyniwch"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15327,6 +15502,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rebutja"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gwrthodwch"
           }
         },
         "de" : {
@@ -15684,6 +15865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Segueix"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dilynwch"
           }
         },
         "de" : {
@@ -16279,6 +16466,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "S'ha unit"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ymuno ar"
           }
         },
         "de" : {
@@ -17849,6 +18042,12 @@
             "value" : "Publicacions"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postiau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18681,6 +18880,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancel·la"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canslo"
           }
         },
         "de" : {
@@ -19630,6 +19835,12 @@
             "value" : "Etiqueta"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -20471,6 +20682,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "D'acord"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
         "de" : {
@@ -22210,6 +22427,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Missatges directes"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Negesau Uniongyrchol"
           }
         },
         "de" : {
@@ -25604,6 +25827,12 @@
             "value" : "Oculta-ho tot"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuddio Popeth"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25959,6 +26188,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tots"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Popeth"
           }
         },
         "de" : {
@@ -26675,6 +26910,12 @@
             "value" : "Icon only"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eicon yn unig"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26792,6 +27033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Icon with text"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eicon gyda testun"
           }
         },
         "de" : {
@@ -27205,6 +27452,12 @@
             "value" : "Explora"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fforio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27322,6 +27575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "All"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Popeth"
           }
         },
         "de" : {
@@ -27443,6 +27702,12 @@
             "value" : "Hashtags"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hashnodau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27562,6 +27827,12 @@
             "value" : "People"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pobl"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27679,6 +27950,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Posts"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postiau"
           }
         },
         "de" : {
@@ -27917,6 +28194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hi ha resultats de cerca"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dim canlyniadau chwilio"
           }
         },
         "de" : {
@@ -28395,6 +28678,12 @@
             "value" : "Publicacions"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postiau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28512,6 +28801,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Usuaris suggerits"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Defnyddwyr Awgrymiadau"
           }
         },
         "de" : {
@@ -28633,6 +28928,12 @@
             "value" : "Etiquetes"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tagiau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28750,6 +29051,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "Enllaços populars"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Newyddion"
           }
         },
         "de" : {
@@ -28871,6 +29178,12 @@
             "value" : "Publicacions populars"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postiau sy'n trendio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28990,6 +29303,12 @@
             "value" : "Etiquetes populars"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tagiau sy'n Trendio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29107,6 +29426,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Usuaris"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Defnyddwyr"
           }
         },
         "de" : {
@@ -29717,6 +30042,12 @@
             "value" : "Inici i llistes"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hafan a rhestrau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -29834,6 +30165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notificacions"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hysbysiadau"
           }
         },
         "de" : {
@@ -29955,6 +30292,12 @@
             "value" : "Perfils"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proffiliau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -30072,6 +30415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Línies de temps públiques"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llinellau amser cyhoeddus"
           }
         },
         "de" : {
@@ -31765,6 +32114,12 @@
     },
     "Image" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llun"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31864,6 +32219,12 @@
     "Instance" : {
       "extractionState" : "manual",
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enghraifft"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -31927,6 +32288,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dominis"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parthau"
           }
         },
         "de" : {
@@ -32047,6 +32414,12 @@
             "value" : "Correu electrònic"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ebost"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32163,6 +32536,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nom"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enw"
           }
         },
         "de" : {
@@ -32283,6 +32662,12 @@
             "value" : "Informació de la instància"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gwybodaeth enghraifft"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32399,6 +32784,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Publicacions"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postiau"
           }
         },
         "de" : {
@@ -32519,6 +32910,12 @@
             "value" : "Informació de la instància"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gwybodaeth enghraifft"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32635,6 +33032,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Normes de la instància"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rheolau enghraifft"
           }
         },
         "de" : {
@@ -32755,6 +33158,12 @@
             "value" : "Usuaris"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Defnyddwyr"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -32871,6 +33280,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Versió"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fersiwn"
           }
         },
         "de" : {
@@ -32991,6 +33406,12 @@
             "value" : "% publicacions"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ postiau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -33107,6 +33528,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ usuaris"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ defnyddwyr"
           }
         },
         "de" : {
@@ -33332,6 +33759,7 @@
       }
     },
     "instance.url" : {
+      "extractionState" : "manual",
       "localizations" : {
         "be" : {
           "stringUnit" : {
@@ -33343,6 +33771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "URL de la instància"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL enghraifft"
           }
         },
         "de" : {
@@ -33796,6 +34230,12 @@
             "value" : "Title"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teitl"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34153,6 +34593,12 @@
             "value" : "No one"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neb"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34259,6 +34705,12 @@
     },
     "Lists" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rhestrau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35264,6 +35716,12 @@
     },
     "Local Timeline" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llinell Amser Lleol"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35378,6 +35836,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Codi font"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ffont"
           }
         },
         "de" : {
@@ -35734,6 +36198,12 @@
             "value" : "GitHub"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35851,6 +36321,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Publicació nova"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Post Newydd"
           }
         },
         "de" : {
@@ -36090,6 +36566,12 @@
             "value" : "Configuració..."
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Osodiadau ..."
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36196,6 +36678,12 @@
     },
     "New post" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Post newydd"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -36248,6 +36736,12 @@
     },
     "Notifications" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hysbysiadau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37605,6 +38099,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No hi ha notificacions"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dim hysbysiadau"
           }
         },
         "de" : {
@@ -39287,6 +39787,12 @@
             "value" : "ha impulsat"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "wedi'i gwthio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39488,6 +39994,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "🚀 Boosted: "
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🚀 Gwthio: "
           }
         },
         "de" : {
@@ -40204,6 +40716,12 @@
             "value" : "Seguiments"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dilynwch"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40440,6 +40958,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mencions"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mensh"
           }
         },
         "de" : {
@@ -40799,6 +41323,12 @@
             "value" : "Publicacions"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41037,6 +41567,12 @@
             "value" : "Totes les notificacions"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pob hysbysiadau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41156,6 +41692,12 @@
             "value" : "Totes"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Popeth"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -41273,6 +41815,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mencions"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menshys"
           }
         },
         "de" : {
@@ -42190,6 +42738,12 @@
     },
     "Private" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preifat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42242,6 +42796,12 @@
     },
     "Private Messages" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Negesau preifat"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42294,6 +42854,12 @@
     },
     "Profile" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proffil"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -42346,6 +42912,12 @@
     },
     "Public" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cyhoeddus"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43136,6 +43708,12 @@
     },
     "Settings" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Osodiadau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43318,6 +43896,12 @@
             "value" : "Ice Cubes"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ice Cubes"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43434,6 +44018,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Neteja la memòria cau"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clirio'r Storfa"
           }
         },
         "de" : {
@@ -43555,6 +44145,12 @@
             "value" : "Afegeix un compte"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ychwanegu Cyfrif"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43671,6 +44267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Publicacions en la memòria cau: %@"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postiau sy'n Storio: %@"
           }
         },
         "de" : {
@@ -43791,6 +44393,12 @@
             "value" : "Quant a"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ynglyn â"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -43907,6 +44515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Icona de l'aplicació"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eicon Ap"
           }
         },
         "de" : {
@@ -44028,6 +44642,12 @@
             "value" : "Icons by"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eiconau gan"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44144,6 +44764,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Icones"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eiconau"
           }
         },
         "de" : {
@@ -44263,6 +44889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Official icons"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eiconau swyddogol"
           }
         },
         "de" : {
@@ -44617,6 +45249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Clear Media Cache"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clirio'r Storfa Cyfryngau"
           }
         },
         "de" : {
@@ -46033,6 +46671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Publicant"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postio"
           }
         },
         "de" : {
@@ -47453,6 +48097,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipografia de la línia de temps"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ffont Llinell Amser"
           }
         },
         "de" : {
@@ -49909,6 +50559,8 @@
       }
     },
     "settings.display.show-ipad-column" : {
+      "comment" : "Galluogi ...",
+      "extractionState" : "manual",
       "localizations" : {
         "be" : {
           "stringUnit" : {
@@ -52165,6 +52817,12 @@
             "value" : "Informació de la instància"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gwybodaeth enghraifft"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53464,6 +54122,12 @@
             "value" : "Línia de temps"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llinell Amser"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -53805,6 +54469,8 @@
       }
     },
     "settings.other.hide-openai" : {
+      "comment" : "Galluogi ...",
+      "extractionState" : "manual",
       "localizations" : {
         "be" : {
           "stringUnit" : {
@@ -54041,6 +54707,8 @@
       }
     },
     "settings.other.social-keyboard" : {
+      "comment" : "Galluogi ...",
+      "extractionState" : "manual",
       "localizations" : {
         "be" : {
           "stringUnit" : {
@@ -54159,6 +54827,8 @@
       }
     },
     "settings.other.sound-effect" : {
+      "comment" : "Galluogi ...",
+      "extractionState" : "manual",
       "localizations" : {
         "be" : {
           "stringUnit" : {
@@ -55470,6 +56140,12 @@
             "value" : "Publicacions noves"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postiau newydd"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -55942,6 +56618,12 @@
             "value" : "Aplicació"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ap"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -56176,6 +56858,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cache"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Storfa"
           }
         },
         "de" : {
@@ -56884,6 +57572,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gràcies!"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diolch!"
           }
         },
         "de" : {
@@ -57828,6 +58522,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Privacy Policy"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Polisi Preifatrwydd"
           }
         },
         "de" : {
@@ -59364,6 +60064,12 @@
             "value" : "Icon style"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arddull Eicon"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -59834,6 +60540,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Post"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postio"
           }
         },
         "de" : {
@@ -62082,6 +62794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configuració"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Osodiadau"
           }
         },
         "de" : {
@@ -64492,6 +65210,12 @@
             "value" : "Publica"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -64966,6 +65690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "La vostra publicació"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eich post"
           }
         },
         "de" : {
@@ -68182,6 +68912,12 @@
             "value" : "Esborranys"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drafftiau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -68299,6 +69035,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Custom Emojis"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Emoji Addasu"
           }
         },
         "de" : {
@@ -68894,6 +69636,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Selecciona la llengua"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dewis Iaith"
           }
         },
         "de" : {
@@ -69608,6 +70356,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Publicació nova"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Post Newydd"
           }
         },
         "de" : {
@@ -74692,6 +75446,12 @@
             "value" : "impulsat"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "wedi'i gwthio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -76816,6 +77576,12 @@
             "value" : "Privat"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uniongyrchol"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77054,6 +77820,12 @@
             "value" : "Tothom"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cyhoeddus"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77171,6 +77943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No llistat"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anrhestredig "
           }
         },
         "de" : {
@@ -77364,6 +78142,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exploreu"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fforio"
           }
         },
         "de" : {
@@ -77602,6 +78386,12 @@
             "value" : "Local"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lleol"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77718,6 +78508,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mentions"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menshys"
           }
         },
         "de" : {
@@ -77838,6 +78634,12 @@
             "value" : "Missatges"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Negesau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77954,6 +78756,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notificacions"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hysbysiadau"
           }
         },
         "de" : {
@@ -78074,6 +78882,12 @@
             "value" : "Perfil"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proffil"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -78190,6 +79004,12 @@
           "stringUnit" : {
             "state" : "needs_review",
             "value" : "Profile (%@)"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proffil (%@)"
           }
         },
         "de" : {
@@ -78310,6 +79130,12 @@
             "value" : "Configuració"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Osodiadau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -78428,6 +79254,12 @@
             "value" : "Línia de temps"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llinell Amser"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -78544,6 +79376,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tendència"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yn Trendio"
           }
         },
         "de" : {
@@ -79996,6 +80834,12 @@
             "value" : "Afegeix"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ychwanegwch"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80112,6 +80956,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Instance URL"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL enghraifft"
           }
         },
         "de" : {
@@ -80824,6 +81674,12 @@
             "value" : "Llistes"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rhestrau"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80940,6 +81796,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Línies de temps locals"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Llinellau Amser Lleol"
           }
         },
         "de" : {
@@ -81773,6 +82635,12 @@
             "value" : "Inici"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hafan"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -81878,6 +82746,7 @@
       }
     },
     "timeline.latest" : {
+      "comment" : "Adnewyddu ??",
       "extractionState" : "manual",
       "localizations" : {
         "be" : {
@@ -82009,6 +82878,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Local"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lleol"
           }
         },
         "de" : {
@@ -83168,6 +84043,12 @@
             "value" : "Tendència"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yn Trendio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -83373,6 +84254,12 @@
     },
     "Trending Links" : {
       "localizations" : {
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dolenni sy'n Trendio"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
