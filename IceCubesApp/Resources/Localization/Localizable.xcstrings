@@ -752,7 +752,8 @@
             "value" : "%@ не є дійсним екземпляром"
           }
         }
-      }
+      },
+      "shouldTranslate" : false
     },
     "%@ was posted on Mastodon" : {
       "localizations" : {
@@ -2376,6 +2377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visibility"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cyhoeddus"
           }
         },
         "de" : {
@@ -11684,7 +11691,7 @@
         "cy-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mewngofnodwch"
+            "value" : "Mewngofnodi"
           }
         },
         "de" : {
@@ -19360,6 +19367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desa"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cadw"
           }
         },
         "de" : {
@@ -59946,6 +59959,12 @@
             "value" : "Appearance"
           }
         },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Golwg"
+          }
+        },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71076,6 +71095,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Què us passa pel cap?"
+          }
+        },
+        "cy-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beth sydd ar eich meddwl?"
           }
         },
         "de" : {
